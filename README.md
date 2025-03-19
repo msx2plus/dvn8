@@ -1,0 +1,1 @@
+a single-cycle wave generator and tarot reader. give it a number and some specifications and get a wave. specializes in chunky chiptune sound care of byte repeat and mirror functions.
